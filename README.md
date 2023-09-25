@@ -1,1 +1,1 @@
-# C-Algo-practice-
+# C++ algorithm practice
