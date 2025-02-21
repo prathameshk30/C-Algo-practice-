@@ -1,3 +1,3 @@
-# C++ algorithm practice
+# algorithm practice
 
-Implementing various coding problems and algos in C++ for practice and understanding.
+Implementing various coding problems and algos in Java/Python for practice and understanding.
